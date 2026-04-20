@@ -1,0 +1,12 @@
+ro\semanticweb\recipeapp\web\AppContextListener.class
+ro\semanticweb\recipeapp\web\XslRecipesServlet.class
+ro\semanticweb\recipeapp\model\DifficultyLevel.class
+ro\semanticweb\recipeapp\model\Recipe.class
+ro\semanticweb\recipeapp\service\XmlDataService.class
+ro\semanticweb\recipeapp\web\HomeServlet.class
+ro\semanticweb\recipeapp\web\BaseServlet.class
+ro\semanticweb\recipeapp\web\RecipeDetailServlet.class
+ro\semanticweb\recipeapp\model\UserProfile.class
+ro\semanticweb\recipeapp\web\AddRecipeServlet.class
+ro\semanticweb\recipeapp\web\RecommendationsServlet.class
+ro\semanticweb\recipeapp\web\UsersServlet.class
