@@ -1,6 +1,7 @@
 # Recipe Recommendation Web Application (XML-only data layer)
 
 Java web app built with Servlets + JSP where all persistence and querying use XML technologies.
+Link to github repo: https://github.com/AnaAdascalitei/SeWeb_Hw1
 
 ## Team Members
 
