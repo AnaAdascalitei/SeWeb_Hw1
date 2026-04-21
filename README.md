@@ -2,6 +2,24 @@
 
 Java web app built with Servlets + JSP where all persistence and querying use XML technologies.
 
+## Team Members
+
+**Adascalitei Ana-Maria**
+- Project setup and Maven configuration
+- XML data layer: XSD schema design and validation
+- Recipe scraping from BBC Good Food using Jsoup
+- XmlDataService implementation (XPath queries, XML persistence)
+- Recipe detail page (requirement 9)
+- Cuisine filter (requirement 10)
+
+**Solomon Miruna**
+- UI design using Bootstrap (navbar, cards, forms)
+- Home page with recipe list and XSL view (requirements 3, 8)
+- Add recipe form with validation (requirement 4)
+- Add user form with validation (requirement 5)
+- Recommendations page - skill level and skill + cuisine (requirements 6, 7)
+- XSLT rendering with yellow/green highlighting (requirement 8)
+
 ## Tech stack
 - Java 17
 - Jakarta Servlets/JSP + JSTL
